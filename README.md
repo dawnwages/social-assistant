@@ -19,7 +19,7 @@ npm run dev
 ```
 
 ### Run Functions API
-
+Instructions to [install Azure Functions locally using Core Tools](https://learn.microsoft.com/en-us/azure/azure-functions/functions-run-local?tabs=windows%2Cisolated-process%2Cnode-v4%2Cpython-v2%2Chttp-trigger%2Ccontainer-apps&pivots=programming-language-csharp#install-the-azure-functions-core-tools)
 ```sh
 cd api
 func start
